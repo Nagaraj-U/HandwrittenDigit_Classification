@@ -1,1 +1,1 @@
-# HandwrittenDigit_Classification using MNIST dataset
+## Handwritten Digit Classification using MNIST dataset
