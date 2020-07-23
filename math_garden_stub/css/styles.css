@@ -66,3 +66,11 @@ h1,h2{
   color: white;
 }
 
+#score{
+  color: white;
+  display: inline;
+  font-size: 50px;
+  font-weight: 300;
+  margin-left: 700px;
+  
+}
