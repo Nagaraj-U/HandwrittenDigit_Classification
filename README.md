@@ -1,4 +1,4 @@
-## Handwritten Digit Classification using MNIST dataset
+                                                        ## Handwritten Digit Classification using MNIST dataset
 
 Digit Recognition model built with Tensorflow and OpenCV in python to recognize digits. This model is trained over 60000 images of MNIST dataset and has accuracy of 98.3%
 
